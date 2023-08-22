@@ -1,0 +1,17 @@
+@import "~antd/dist/antd.css";
+
+html, body {
+    height: 90%;
+}
+
+.content {
+    margin: 30px;
+}
+
+.ant-divider-horizontal.ant-divider-with-text {
+    font-size: 22px;
+}
+
+.ant-timeline-item, .ant-form-item-label > label {
+    font-size: 18px;
+}
